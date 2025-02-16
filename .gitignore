@@ -1,0 +1,16 @@
+# NetBeans-Related files
+nbproject/private/
+build/
+dist/
+manifest.mf
+
+# temp files
+*.class
+*.jar
+*.jad
+*.bak
+*.tmp
+
+# os-specific
+.DS_Store
+Thumbs.db
